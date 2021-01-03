@@ -3,7 +3,7 @@ This Windows desktop program was made to easily navigate pre-flop play in the po
 
 ## Usage
 This program was created using Microsoft Visual Studio 2019 with C++. [Software here](https://visualstudio.microsoft.com/vs/features/cplusplus/).
-To run the program, build the solution (Ctrl+Shift+B) and then click "Start without Debugging" (Ctrl+F5). The applet should appear.
+To run the program, download the project and run the applet executable file in the "executable" folder. Folder also contains image resources for the applet to smoothly load. 
 
 ## Features
 The current program contains pre-flop charts for the following scenarios:
